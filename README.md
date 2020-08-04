@@ -1,0 +1,2 @@
+# AI_Car-Pedestrian_Tracker
+This is a Simple yet Powerful Program to Track Cars and Pedestrians in an Entire Video File Live, All it Requires is a Video File, Pre-Trained "Classifiers File" which detect the Cars/Pedestrians by Framing a Rectangle around the Object. This Project also contains Program to detect Object around an Image aswell But it's Commented out Try to use it if Necessary. Ok Enough of Theory.  Just Try out Practically, Thanks 💯
